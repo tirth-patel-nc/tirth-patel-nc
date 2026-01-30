@@ -5,3 +5,4 @@
 - Bisected framework and engine regressions, identifying root causes and submitting upstream fixes also referenced in notable commits
 - Contributed bug fixes & documentation improvements across Flutter SDK, tooling, & ecosystem.
 - Collaborated with Flutter maintainers at Google and external contributors in OSS workflows.
+- 30th January was my last working day as frontline triage team member.
