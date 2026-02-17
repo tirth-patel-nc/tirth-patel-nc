@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders, to let him know the world hadn't end
+
 - My name is [Tirth](https://tirth.today), I work as a Developer Support Engineer @ Codemagic.
 - Previously I was part of Frontline Triage Team @ Codemagic/Nevercode & Open Source Software Engineer for Flutter SDK @ Google.
   - Triaged and resolved issues across Flutter SDK used by millions of developers worldwide & affecting production apps.
